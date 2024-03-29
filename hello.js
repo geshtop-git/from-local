@@ -9,5 +9,5 @@ const b = () =>{
 }
 
 const c =() =>{
-    console.log("cccc")
+    console.log("function c")
 }
