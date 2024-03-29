@@ -24,3 +24,7 @@ const d = () =>{
 const e = () =>{
     alert("e")
 }
+
+const f = () =>{
+    console.log("ffff")
+}
